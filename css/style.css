@@ -472,13 +472,12 @@ h3,
 h4,
 h5 {
   letter-spacing: 0.8px;
-  font-family: 'Roboto Slab', serif;
 }
 p {
   letter-spacing: 0.5px;
   font-size: 13px;
   line-height: 34px;
-  font-weight: 300;
+  font-weight: 400;
 }
 #home h1 {
   line-height: 40px;
